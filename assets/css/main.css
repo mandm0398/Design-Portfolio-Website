@@ -2170,7 +2170,7 @@
 	}
 
 		.image img {
-			border-radius: 10px;
+			border-radius: 5px;
 			display: block;
 		}
 
@@ -3099,7 +3099,7 @@
 /* Banner */
 
 	#banner {
-		padding: 5em 3em 12.375em 3em ;
+		padding: 3em 3em 12.375em 3em ;
 	}
 
 		#banner .inner {
@@ -3185,7 +3185,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 5em 3em 12.375em 3em ;
+				padding: 3em 3em 12.375em 3em ;
 				background-color: #2e3141;
 				background-image: linear-gradient(to top left, rgba(46, 49, 65, 0.1), rgba(46, 49, 65, 0.9)), url("../../images/WALL-E-5.jpg");
 				background-size: auto, cover;
@@ -3198,7 +3198,7 @@
 		@media screen and (max-width: 980px) {
 
 			#banner {
-				padding: 4em 3em 12.375em 3em ;
+				padding: 3em 2em 12.375em 3em ;
 				margin-bottom: -4.75em;
 			}
 
