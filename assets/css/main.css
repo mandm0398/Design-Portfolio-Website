@@ -3104,7 +3104,7 @@
 
 		#banner .inner {
 			margin: 0 0 1em 0;
-			width: 55em;
+			width: 99.99%;
 		}
 
 		#banner .logo {
@@ -3182,6 +3182,7 @@
 			text-transform: uppercase;
 		}
 
+		/*not largest*/
 		@media screen and (max-width: 1280px) {
 
 			#banner {
